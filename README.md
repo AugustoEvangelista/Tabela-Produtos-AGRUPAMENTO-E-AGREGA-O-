@@ -1,4 +1,4 @@
-Título do exercício: Exemplos (TRIGGERS)
+Título do exercício: Tabela Produtos (AGRUPAMENTO E AGREGAÇÃO)
 
 Descrição da atividade:
 ETAPA 1
@@ -12,11 +12,11 @@ Verifique se todos os dados foram inseridos;
 
 ETAPA 2
 Gere um relatório informando quantos produtos estão cadastrados;
-  ![image](https://github.com/AugustoEvangelista/Tabela-Produtos-AGRUPAMENTO-E-AGREGA-O-/assets/169067689/17cb25bf-531a-404c-9aaa-7cad9cf7ba53)
-  
+  ![image](https://github.com/AugustoEvangelista/Tabela-Produtos-AGRUPAMENTO-E-AGREGA-O-/assets/169067689/eb4217c8-be4b-4792-bcd5-a1c2cf46d79c)
+
 Gere um relatório informando o preço médio dos produtos;
-  ![image](https://github.com/AugustoEvangelista/Tabela-Produtos-AGRUPAMENTO-E-AGREGA-O-/assets/169067689/224cccbf-d2ee-4aa5-853c-040b3e3bdf70)
-  
+  ![image](https://github.com/AugustoEvangelista/Tabela-Produtos-AGRUPAMENTO-E-AGREGA-O-/assets/169067689/1852e14e-03e9-492b-83d1-59869ef2bdde)
+
 Selecione a média dos preços dos produtos em 2 grupos: perecíveis e não perecíveis;
   ![image](https://github.com/AugustoEvangelista/Tabela-Produtos-AGRUPAMENTO-E-AGREGA-O-/assets/169067689/9a91ef64-8032-4aae-b73f-43212caf7d7d)
   
