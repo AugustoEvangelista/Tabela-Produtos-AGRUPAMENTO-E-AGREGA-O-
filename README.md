@@ -15,6 +15,7 @@ Gere um relatório informando quantos produtos estão cadastrados;
   ![image](https://github.com/AugustoEvangelista/Tabela-Produtos-AGRUPAMENTO-E-AGREGA-O-/assets/169067689/eb4217c8-be4b-4792-bcd5-a1c2cf46d79c)
 
 Gere um relatório informando o preço médio dos produtos;
+ 
   ![image](https://github.com/AugustoEvangelista/Tabela-Produtos-AGRUPAMENTO-E-AGREGA-O-/assets/169067689/1852e14e-03e9-492b-83d1-59869ef2bdde)
 
 Selecione a média dos preços dos produtos em 2 grupos: perecíveis e não perecíveis;
